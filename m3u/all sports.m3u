@@ -1,0 +1,183 @@
+﻿ usa sports 
+
+
+#EXTM3U
+#EXTINF:0,BeIN Sports 1 FR
+http://178.33.88.129:888/udp/239.102.0.20:1234
+#EXTINF:0,BeIN Sports 2 FR
+http://178.33.88.129:888/udp/239.102.0.21:1234
+#EXTINF:0,BeIN Sports 3 FR
+http://178.33.88.129:888/udp/239.102.0.22:1234
+#EXTINF:0,BEIN USA 1
+http://lihattv.toh.info/jhos/beib1.m3u8
+#EXTINF:0,BEIN USA 2
+http://lihattv.toh.info/jhos/beib2.m3u8
+#EXTINF:0,BEIN USA 3
+http://lihattv.toh.info/jhos/beib3.m3u8
+#EXTINF:-1, Bein Sport HD 1
+
+http://176.53.21.99:8082/TV4001
+
+#EXTINF:-1, Bein Sport HD 2
+
+http://176.53.21.99:8082/TV4002
+
+#EXTINF:-1, Bein Sport HD 3
+
+http://176.53.21.99:8082/TV4003
+
+#EXTINF:-1, Bein Sport HD 4
+
+http://176.53.21.99:8082/TV4004
+
+#EXTINF:-1, Bein Sport HD 5
+
+http://176.53.21.99:8082/TV4005
+
+#EXTINF:-1, Bein Sport HD 6
+
+http://176.53.21.99:8082/TV4006
+
+#EXTINF:-1, Bein Sport HD 7
+
+http://176.53.21.99:8082/TV4007
+
+#EXTINF:-1, Bein Sport HD 8
+
+http://176.53.21.99:8082/TV4008
+
+#EXTINF:-1, Bein Sport HD 9
+
+http://176.53.21.99:8082/TV4009
+
+#EXTINF:-1, Bein Sport HD 10
+
+http://176.53.21.99:8082/TV4010
+
+#EXTINF:-1, Bein Sport HD 11
+
+http://176.53.21.99:8082/TV4011
+
+#EXTINF:-1, Bein Sport HD 12
+
+http://176.53.21.99:8082/TV4012
+
+#EXTINF:-1, Bein Sport HD 13
+
+http://176.53.21.99:8082/TV4013
+
+#EXTINF:-1, Bein Sport HD 14
+
+http://176.53.21.99:8082/TV4014
+
+#EXTINF:-1, Bein Sport HD ES
+
+http://176.53.21.99:8082/TV4015
+
+
+
+#EXTINF:-1, beIN Sports 1 HD
+
+http://195.154.226.186:1935/livee/bein1frlsh/playlist.m3u8
+
+#EXTINF:-1, beIN Sports 2 HD
+
+http://195.154.226.186:1935/livee/bein2frlsh/playlist.m3u8
+
+UK IPTV Sky #EXTINF:0, Eurosport 1 uk
+
+http://195.154.226.186:1935/livee/vesplsh/playlist.m3u8
+
+#EXTINF:0, Eurosport 2 uk
+
+http://195.154.226.186:1935/livee/vesp2lsh/playlist.m3u8
+
+sky sports
+
+#EXTINF:0, SkySport 1
+
+http://195.154.226.186:1935/livee/skysports1lsh/playlist.m3u8
+
+#EXTINF:0, SkySport2
+
+http://195.154.226.186:1935/livee/skysports2lsh/playlist.m3u8
+
+#EXTINF:0, SkySport 3
+
+http://195.154.226.186:1935/livee/skysports3lsh/playlist.m3u8
+
+#EXTINF:0, SkySport 4
+
+http://195.154.226.186:1935/livee/skysports4lsh/playlist.m3u8
+
+#EXTINF:0, SkySport 5
+
+http://195.154.226.186:1935/livee/skysports5lsh/playlist.m3u8
+
+#EXTINF:0, SkySport F1
+
+http://195.154.226.186:1935/livee/vskysf1lsh/playlist.m3u8
+
+#EXTINF:0, BT Sport 1
+
+http://195.154.226.186:1935/livee/btsports1lsh/playlist.m3u8
+
+#EXTINF:0, BT Sport 2
+
+http://195.154.226.186:1935/livee/btsports2lsh/playlist.m3u8
+
+
+
+#‎EXTINF‬:-1,Sky sports 1
+rtmp://$OPT:rtmp-raw=rtmp://80.82.78.26:443/liverepeater playpath=30 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=30&width=600&height=450 token=#atd%#$ZH
+
+#‎EXTINF‬:-1,Sky sports 2
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=48 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=48&width=600&height=450 token=#atd%#$ZH
+
+#‎EXTINF‬:-1,Sky sports 3
+rtmp://$OPT:rtmp-raw=rtmp://80.82.78.26:443/liverepeater playpath=10 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=10&width=600&height=450 token=#atd%#$ZH
+
+#‎EXTINF‬:-1,Sky sports 4
+rtmp://$OPT:rtmp-raw=rtmp://80.82.78.87:443/liverepeater playpath=16 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=16&width=600&height=450 token=#atd%#$ZH
+
+#‎EXTINF‬:-1,Sky sports 5
+rtmp://$OPT:rtmp-raw=rtmp://89.248.171.90:443/liverepeater playpath=31 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=31&width=600&height=450 token=#atd%#$ZH
+
+#‎EXTINF‬:-1,BT sport 1
+rtmp://$OPT:rtmp-raw=rtmp://80.82.78.39:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=13&width=600&height=450 token=#atd%#$ZH
+
+#‎EXTINF‬:-1,BT sport 2
+rtmp://$OPT:rtmp-raw=rtmp://89.248.171.90:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH
+
+#EXTINF:0, SkySport 1
+
+http://195.154.226.186:1935/livee/skysports1lsh/playlist.m3u8
+
+#EXTINF:0, SkySport2
+
+http://195.154.226.186:1935/livee/skysports2lsh/playlist.m3u8
+
+#EXTINF:0, SkySport 3
+
+http://195.154.226.186:1935/livee/skysports3lsh/playlist.m3u8
+
+#EXTINF:0, SkySport 4
+
+http://195.154.226.186:1935/livee/skysports4lsh/playlist.m3u8
+
+#EXTINF:0, SkySport 5
+
+http://195.154.226.186:1935/livee/skysports5lsh/playlist.m3u8
+
+#EXTINF:0, SkySport F1
+
+http://195.154.226.186:1935/livee/vskysf1lsh/playlist.m3u8
+
+#EXTINF:0, BT Sport 1
+
+http://195.154.226.186:1935/livee/btsports1lsh/playlist.m3u8
+
+#EXTINF:0, BT Sport 2
+
+http://195.154.226.186:1935/livee/btsports2lsh/playlist.m3u8
+
