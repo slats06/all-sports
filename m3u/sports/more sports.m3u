@@ -11,3 +11,10 @@ rtmp://89.248.174.38/live playpath=wskys4 swfUrl=http://www.yocast.tv/myplayer/j
 rtmp://89.248.169.50/live playpath=wskys5 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys5&vw=600&vh=450
 #EXTINF:0,ESPN
 rtmp://181.214.35.9:19350/live/ playpath=ioigjtYkw1Jm swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=758&vw=650&vh=400
+
+#EXTINF:0,BEIN USA 1
+http://lihattv.toh.info/jhos/beib1.m3u8
+#EXTINF:0,BEIN USA 2
+http://lihattv.toh.info/jhos/beib2.m3u8
+#EXTINF:0,BEIN USA 3
+http://lihattv.toh.info/jhos/beib3.m3u8
