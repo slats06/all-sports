@@ -18,3 +18,6 @@ http://lihattv.toh.info/jhos/beib1.m3u8
 http://lihattv.toh.info/jhos/beib2.m3u8
 #EXTINF:0,BEIN USA 3
 http://lihattv.toh.info/jhos/beib3.m3u8
+
+#EXTINF:0,BT Sport Europe UK
+http://s3.iptvapi.com:8081/BTSpeu/index.m3u8
