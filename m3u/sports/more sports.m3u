@@ -22,6 +22,116 @@ http://lihattv.toh.info/jhos/beib3.m3u8
 http://s3.iptvapi.com:8081/BTSpeu/index.m3u8
 
 
+#EXTM3U
+
+
+
+
+#EXTINF:0,CANAL+SPORT HD
+http://stream-full.selfip.com:8000/live/sport3/sport3/35.ts
+
+#EXTINF:0,BT Sport Europe 
+http://stream-full.selfip.com:8000/live/sport3/sport3/358.ts
+#EXTINF:0,BT Sport1
+http://stream-full.selfip.com:8000/live/sport3/sport3/83.ts
+#EXTINF:0,BT Sport2
+http://stream-full.selfip.com:8000/live/sport3/sport3/84.ts
+#EXTINF:0,BT Sport EXTRA
+http://stream-full.selfip.com:8000/live/sport3/sport3/160.ts
+#EXTINF:0,Racing UK 
+http://stream-full.selfip.com:8000/live/sport3/sport3/96.ts
+#EXTINF:0,Box Nation 
+http://stream-full.selfip.com:8000/live/sport3/sport3/347.ts
+
+
+
+
+
+#EXTINF:0,Sky Sport 5 
+http://stream-full.selfip.com:8000/live/sport3/sport3/135.ts
+#EXTINF:0,Sky Sport 4 
+http://stream-full.selfip.com:8000/live/sport3/sport3/134.ts
+#EXTINF:0,Sky Sport 3 
+http://stream-full.selfip.com:8000/live/sport3/sport3/133.ts
+#EXTINF:0,Sky Sport 2 
+http://stream-full.selfip.com:8000/live/sport3/sport3/132.ts
+#EXTINF:0,Sky Sport 1 
+http://stream-full.selfip.com:8000/live/sport3/sport3/131.ts
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0,AR_beinsport_1hd
+http://stream-full.selfip.com:8000/live/sport3/sport3/255.ts
+#EXTINF:0,AR_beinsport_2hd
+http://stream-full.selfip.com:8000/live/sport3/sport3/256.ts
+#EXTINF:0,AR_beinsport_3h
+http://stream-full.selfip.com:8000/live/sport3/sport3/257.ts
+#EXTINF:0,AR_beinsport_4h
+http://stream-full.selfip.com:8000/live/sport3/sport3/258.ts
+#EXTINF:0,AR_beinsport_5hd
+http://stream-full.selfip.com:8000/live/sport3/sport3/259.ts
+#EXTINF:0,AR_beinsport_6hd
+http://stream-full.selfip.com:8000/live/sport3/sport3/260.ts
+#EXTINF:0,AR_beinsport_7hd
+http://stream-full.selfip.com:8000/live/sport3/sport3/261.ts
+#EXTINF:0,AR_beinsport_8hd
+http://stream-full.selfip.com:8000/live/sport3/sport3/262.ts
+#EXTINF:0,Bein:Sports:HD9
+http://stream-full.selfip.com:8000/live/sport3/sport3/263.ts
+#EXTINF:0,BE-BeinSport-10HD
+http://stream-full.selfip.com:8000/live/sport3/sport3/264.ts
+#EXTINF:0,BE-BeinSport-11HD
+http://stream-full.selfip.com:8000/live/sport3/sport3/265.ts
+#EXTINF:0,BE-BeinSport-12HD
+http://stream-full.selfip.com:8000/live/sport3/sport3/266.ts
+#EXTINF:0,ARENA SPORT1
+http://stream-full.selfip.com:8000/live/sport3/sport3/224.ts
+#EXTINF:0,ARENA SPORT2
+http://stream-full.selfip.com:8000/live/sport3/sport3/225.ts
+#EXTINF:0,ARENA SPORT3
+http://stream-full.selfip.com:8000/live/sport3/sport3/226.ts
+#EXTINF:0,ARENA SPORT4
+http://stream-full.selfip.com:8000/live/sport3/sport3/227.ts
+#EXTINF:0,SPORT KLUB1
+http://stream-full.selfip.com:8000/live/sport3/sport3/217.ts
+#EXTINF:0,SPORT KLUB2
+http://stream-full.selfip.com:8000/live/sport3/sport3/218.ts
+#EXTINF:0,SPORT KLUB3
+http://stream-full.selfip.com:8000/live/sport3/sport3/219.ts
+#EXTINF:0,CANAL+LIGA
+http://stream-full.selfip.com:8000/live/sport3/sport3/229.ts
+#EXTINF:0,CANAL+LIGA DEPORTESS
+http://stream-full.selfip.com:8000/live/sport3/sport3/231.ts
+#EXTINF:0,CANAL+LIGA FUTBALL
+http://stream-full.selfip.com:8000/live/sport3/sport3/230.ts
+#EXTINF:0,TSN1 USA
+http://stream-full.selfip.com:8000/live/sport3/sport3/303.ts
+#EXTINF:0,TSN2 USA
+http://stream-full.selfip.com:8000/live/sport3/sport3/304.ts
+#EXTINF:0,TSN3 USA
+http://stream-full.selfip.com:8000/live/sport3/sport3/305.ts
+#EXTINF:0,TSN4 USA
+http://stream-full.selfip.com:8000/live/sport3/sport3/305.ts
+#EXTINF:0,FOX SPORT1 USA
+http://stream-full.selfip.com:8000/live/sport3/sport3/306.ts
+#EXTINF:0,FOX SPORT2 USA
+
+#EXTINF:0,LIG TV1
+http://stream-full.selfip.com:8000/live/sport3/sport3/542.ts
+#EXTINF:0,LIG TV3
+http://stream-full.selfip.com:8000/live/sport3/sport3/543.ts
+#EXTINF:0,LIG TV3
+http://stream-full.selfip.com:8000/live/sport3/sport3/544.ts
+
+
+
 
 
 
