@@ -21,3 +21,16 @@ http://lihattv.toh.info/jhos/beib3.m3u8
 
 #EXTINF:0,BT Sport Europe UK
 http://s3.iptvapi.com:8081/BTSpeu/index.m3u8
+
+
+#EXTM3U
+#EXTINF:0, Sky Sport 1
+ rtmp://$OPT:rtmp-raw=rtmp://89.248.169.35/live playpath=wskys1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys1&vw=600&vh=450
+ #EXTINF:0, Sky Sport 2
+ rtmp://$OPT:rtmp-raw=rtmp://89.248.169.35/live playpath=wskys2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys2&vw=600&vh=450
+ #EXTINF:0, Sky Sport 3
+ rtmp://$OPT:rtmp-raw=rtmp://80.82.65.162/live playpath=wskys3 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys3&vw=600&vh=450
+ #EXTINF:0, SkySport 4
+ rtmp://$OPT:rtmp-raw=rtmp://89.248.169.50/live playpath=wskys4 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys4&vw=600&vh=450
+ #EXTINF:0, SkySport 5
+ rtmp://$OPT:rtmp-raw=rtmp://89.248.174.121/live playpath=wskys5 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys5&vw=600&vh=450
