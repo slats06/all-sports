@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:0,SkySport 1 <p style="color:red">HD</p>
+#EXTINF:0,SkySport 1 
 rtmp://80.82.70.155/live playpath=wskys1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys1&vw=600&vh=450
 #EXTINF:0,SkySport 2
 rtmp://93.174.93.196/live playpath=wskys2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys2&vw=600&vh=450
