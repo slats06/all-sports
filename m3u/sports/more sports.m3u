@@ -9,8 +9,7 @@ rtmp://89.248.174.121/live playpath=wskys3 swfUrl=http://www.yocast.tv/myplayer/
 rtmp://89.248.174.38/live playpath=wskys4 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys4&vw=600&vh=450
 #EXTINF:0,SkySport 5
 rtmp://89.248.169.50/live playpath=wskys5 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys5&vw=600&vh=450
-#EXTINF:0,ESPN
-rtmp://181.214.35.9:19350/live/ playpath=ioigjtYkw1Jm swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=758&vw=650&vh=400
+
 
 #EXTINF:0,BEIN USA 1
 http://lihattv.toh.info/jhos/beib1.m3u8
@@ -24,13 +23,21 @@ http://s3.iptvapi.com:8081/BTSpeu/index.m3u8
 
 
 #EXTM3U
-#EXTINF:0, Sky Sport 1
- rtmp://$OPT:rtmp-raw=rtmp://89.248.169.35/live playpath=wskys1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys1&vw=600&vh=450
- #EXTINF:0, Sky Sport 2
- rtmp://$OPT:rtmp-raw=rtmp://89.248.169.35/live playpath=wskys2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys2&vw=600&vh=450
- #EXTINF:0, Sky Sport 3
- rtmp://$OPT:rtmp-raw=rtmp://80.82.65.162/live playpath=wskys3 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys3&vw=600&vh=450
- #EXTINF:0, SkySport 4
- rtmp://$OPT:rtmp-raw=rtmp://89.248.169.50/live playpath=wskys4 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys4&vw=600&vh=450
- #EXTINF:0, SkySport 5
- rtmp://$OPT:rtmp-raw=rtmp://89.248.174.121/live playpath=wskys5 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys5&vw=600&vh=450
+#EXTINF:-1, SKY SPORTS 1
+rtmp://$OPT:rtmp-raw=rtmp://195.154.168.217:80/liverepeater playpath=303035 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/.coms token=Fo5_n0w?U.rA6l3-70w47ch timeout=10
+#EXTINF:-1, SKY SPORTS 2
+rtmp://$OPT:rtmp-raw=rtmp://195.154.168.217:80/liverepeater playpath=303018 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/.coms token=Fo5_n0w?U.rA6l3-70w47ch timeout=10
+#EXTINF:-1, SKY SPORTS 3
+rtmp://$OPT:rtmp-raw=rtmp://195.154.168.217:80/liverepeater playpath=3030319 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/.coms token=Fo5_n0w?U.rA6l3-70w47ch timeout=10
+#EXTINF:-1, SKY SPORTS 4
+rtmp://$OPT:rtmp-raw=rtmp://195.154.168.217:80/liverepeater playpath=303020 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/.coms token=Fo5_n0w?U.rA6l3-70w47ch timeout=10
+#EXTINF:-1, SKY SPORTS 5
+rtmp://$OPT:rtmp-raw=rtmp://195.154.168.217:80/liverepeater playpath=303021 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/.coms token=Fo5_n0w?U.rA6l3-70w47ch timeout=10
+#EXTINF:-1, SKY SPORTS F1
+rtmp://$OPT:rtmp-raw=rtmp://195.154.168.217:80/liverepeater playpath=303022 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/.coms token=Fo5_n0w?U.rA6l3-70w47ch timeout=10
+#EXTINF:-1, BT SPORT 1
+rtmp://$OPT:rtmp-raw=rtmp://195.154.168.217:80/liverepeater playpath=303023 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/.coms token=Fo5_n0w?U.rA6l3-70w47ch timeout=10
+#EXTINF:-1, BT SPORT 2
+rtmp://$OPT:rtmp-raw=rtmp://195.154.168.217:80/liverepeater playpath=303024 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/.coms token=Fo5_n0w?U.rA6l3-70w47ch timeout=10
+
+
