@@ -21,11 +21,17 @@ http://lihattv.toh.info/jhos/beib3.m3u8
 #EXTINF:0,BT Sport Europe UK
 http://s3.iptvapi.com:8081/BTSpeu/index.m3u8
 
+#EXTM3U
+#EXTINF:-1, BT SPORT 1
+http://s3.iptvapi.com:8081/BTSp1/index.m3u8
+#EXTINF:-1, BT SPORT 2
+http://s3.iptvapi.com:8081/BTSp2/index.m3u
+#EXTINF:-1, BT Sport ESPN
+http://s3.iptvapi.com:8081/BTSespn/index.m3u8
+#EXTINF:-1, BT Sport Europe
+http://s3.iptvapi.com:8081/BTSpeu/index.m3u8
 
 #EXTM3U
-
-
-
 
 #EXTINF:0,CANAL+SPORT HD
 http://stream-full.selfip.com:8000/live/sport3/sport3/35.ts
